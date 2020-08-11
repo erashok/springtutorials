@@ -1,0 +1,6 @@
+com\meraportal\epay\service\CustomAuthenticationProvider.class
+com\meraportal\epay\security\ldap\api\config\SecurityConfig.class
+com\meraportal\epay\security\ldap\api\controller\ApplicationController.class
+com\meraportal\epay\service\LDAPService.class
+com\meraportal\epay\service\ILDAPService.class
+com\meraportal\epay\security\ldap\api\SpringLdapSecurityApplication.class
